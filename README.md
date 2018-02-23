@@ -1,6 +1,6 @@
 ## Magento 2 Croatian Language Pack
 
-Coming with **Magento 2 Croatian Language Pack**, you feel free to approach to Croatian audience by their native language. Mageplaza provides the good instructions to translate more than 12,000 phrases of Magento 2 frontend and backend to Croatian. With Magento 2 Croatian Language Pack, you are wholly confident to expand your brand on Croatia Market.
+Coming with **Magento 2 Croatian Language Pack**, you feel free to approach to Croatian audience by their native languages. Mageplaza provides the good instructions to translate more than 12,000 phrases of Magento 2 frontend and backend to Croatian. With Magento 2 Croatian Language Pack, you are wholly confident to expand your brand on Croatia Market.
 
 Read more [Magento 2 Croatian Language Pack](https://www.mageplaza.com/magento-2-croatian-language-pack.html)
 
@@ -136,6 +136,7 @@ Contribute to this language at https://crowdin.com/project/magento-2/hr
 - Magento v2.0.13
 - Magento v2.0.14
 - Magento v2.0.15
+- Magento v2.0.16
 - Magento v2.1.0
 - Magento v2.1.1
 - Magento v2.1.2
@@ -145,6 +146,10 @@ Contribute to this language at https://crowdin.com/project/magento-2/hr
 - Magento v2.1.6
 - Magento v2.1.7
 - Magento v2.1.8
+- Magento v2.1.10
+- Magento v2.2.0
+- Magento v2.2.1
+- Magento v2.2.2
 
 
 
