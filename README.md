@@ -110,8 +110,8 @@ Now time to active the Croatian language pack for your Magento 2 store. From Mag
 ![{{Magento 2 Croatian language pack}}](https://cdn.mageplaza.com/media/general/aPSUA0l.png)
 
 
-<!-- ## Translation process of Croatian Language Pack
-![process](http://progressed.io/bar/80) -->
+## 4. How to contribute
+<!-- ![process](http://progressed.io/bar/80) -->
 
 Contribute to this language at https://crowdin.com/project/magento-2/hr
 
