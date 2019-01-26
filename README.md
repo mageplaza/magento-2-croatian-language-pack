@@ -89,8 +89,11 @@ Unzip the Croatian language pack to Magento 2 root folder. In this guide, we ext
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip master.zip app/i18n/Mageplaza/hr_hr
+unzip master.zip app/i18n/Mageplaza/
 ```
+
+Rename folder `magento-2-croatian-language-pack` to `hr_hr`.
+
 
 You also can unzip locally and upload them to Magento 2 root folder.
 
@@ -110,7 +113,11 @@ To download and install Croatian pack manually, you have to access to your serve
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `hr_HR.zip` into `app/i18n/mageplaza/hr_HR/hr_HR.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/hr_hr/hr_HR.csv`
+
+See this screenshot
+
+![Croatian pack](https://i.imgur.com/tS668yC.png)
 
 #### Step 2: Flush cache
 
