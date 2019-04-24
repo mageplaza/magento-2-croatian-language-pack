@@ -117,11 +117,13 @@ To download and install Croatian pack manually, you have to access to your serve
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/hr_hr/hr_HR.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/hr_hr/`
 
-See this screenshot
+See this screenshot:
 
 ![Croatian pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **hr_hr**
 
 #### Step 2: Flush cache
 
